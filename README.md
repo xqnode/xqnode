@@ -4,7 +4,7 @@
 - 🚀 微信公众号：Java学习指南
 - 👾 B站视频(带做前后端分离项目)：<a href="https://space.bilibili.com/402779077" target="_blank">B站 程序员青戈</a>
 - 💬 微信：xia_qing2012
-- 🌎 我的编程知识星球：<a target="_blank" href="https://wx.zsxq.com/dweb2/index/group/88858581128482">带小白学习前后端技能，度过新手期的圈子</a>
+- 🌎 我的编程知识星球：<a target="_blank" href="https://t.zsxq.com/hJetM">带小白学习前后端技能，度过新手期的圈子</a>
 
 ## 今年汇总 ✨
 
