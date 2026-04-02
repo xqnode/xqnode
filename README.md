@@ -1,10 +1,9 @@
-## Hi, 我是青戈 😋
+## Hi, 我是程序员青戈 😋
 
 - 🧑‍💻 大厂Java程序员
-- 🚀 微信公众号：Java学习指南
+- 🚀 微信公众号：程序员青戈
 - 👾 B站视频(带做前后端分离项目)：<a href="https://space.bilibili.com/402779077" target="_blank">B站 程序员青戈</a>
-- 💬 微信：xia_qing2012
-- 🌎 我的编程知识星球：<a target="_blank" href="https://t.zsxq.com/hJetM">带小白学习前后端技能，度过新手期的圈子</a>
+- 💬 微信：ympz99
 
 ## 今年汇总 ✨
 
